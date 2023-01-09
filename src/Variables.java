@@ -18,6 +18,7 @@ public class Variables {
         System.out.println("Konverzný kurz Eur/Sk je " + conversionRate + " ku dňu 21.12.2022.");
         System.out.println("Moje meno je " + name);
         System.out.println("Vypisujem celé číslo " + myNum);
+        System.out.println();
         System.out.println("Vypisujem desatinné číslo " + myFloatNum);
         System.out.println("Vypisujem písmeno, ktoré je toto: " + myLetter);
         System.out.println("A toto je hodnota typu boolean premennej myBool " + myBool);
